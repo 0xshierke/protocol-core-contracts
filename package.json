@@ -1,0 +1,27 @@
+{
+  "name": "protocol-core-contracts",
+  "version": "1.0.0",
+  "description": "This repo contains all the core-protocol contracts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xDimethylButane/protocol-core-contracts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0xDimethylButane/protocol-core-contracts/issues"
+  },
+  "homepage": "https://github.com/0xDimethylButane/protocol-core-contracts#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "hardhat": "^2.14.0"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.3"
+  }
+}
